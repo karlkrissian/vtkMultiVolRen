@@ -2,6 +2,6 @@
 This code is a modification of existing VTK 5.8 GPU Volume Rendering code to enable the simultaneous rendering of two input datasets.
 A demo is provided as example.
 
-Autores:
+Authors of the changes:
 Carlos Fálcon Torres
 Karl Krissian

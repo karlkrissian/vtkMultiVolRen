@@ -1,0 +1,1 @@
+optirun64 ./vtkGPUMultiVolumeRenderDemo -V16 /home/karl/projects/data/VTKDATA/Data/headsq/quarter -CT_Bone -vol2 -V16 /home/karl/projects/data/VTKDATA/Data/headsq/quarter -CompositeShadeRamp 200 1000  -Clip

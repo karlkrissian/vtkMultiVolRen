@@ -1,6 +1,9 @@
 
 This code is a modification of existing VTK 5.8 GPU Volume Rendering code to enable the simultaneous rendering of two input datasets.
-A demo is provided as example.
+A demo is provided as an example.
+
+A video showing the use of the new classes in AMILab is available at:
+http://youtu.be/izaabm1Qq2o
 
 Authors of the changes:
 Carlos Fálcon Torres
